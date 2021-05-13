@@ -1,4 +1,4 @@
-# khub-css-maker (Final Release)
+# khub-css-maker
 
 ## Creates and exports a basic CSS for [Krunker Hub](https://krunker.io/social.html) to `social_custom.css` with the colour codes (Text, Accent and Shadow) and the background image link you provide.
 
