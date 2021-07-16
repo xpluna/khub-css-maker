@@ -1,6 +1,6 @@
 ########################################
 #   KHub CSS Maker - Final Release
-#   Written By - Karl.sch#7517
+#   Written By - xpbliss#5178
 ########################################
 #   Features:
 # - Hides ADs, KrunkTV, KrunkNews and Follow Suggestions
